@@ -44,6 +44,11 @@ The workflow included:
 - **60** high-priority system valves
 - **18** system valves identified within 100 ft of high-priority water mains
 
+## Project Map
+
+![Utility Infrastructure Maintenance Priority Analysis](Layout.png)
+  
+
 ## Interactive Map
 
 Explore the analysis through the interactive ArcGIS web map:
